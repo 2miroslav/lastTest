@@ -7,5 +7,7 @@ $pages= new \Controlers\Core\Web\Pages();
 		<title>The Guru master PHPUnit</title>
 	</head>
 	<body>
-	<h1><?php echo $pages->render();?></h1>
+	<h1><?php
+		//jednoriadkovy komentar
+		echo $pages->render();?></h1>
 	</body>
