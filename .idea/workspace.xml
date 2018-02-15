@@ -78,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
-              <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -276,7 +276,7 @@
       <option name="presentableId" value="Default" />
       <updated>1518642451419</updated>
       <workItem from="1518642458921" duration="12903000" />
-      <workItem from="1518709995706" duration="1931000" />
+      <workItem from="1518709995706" duration="2054000" />
     </task>
     <task id="LOCAL-00001" summary="coment add">
       <created>1518710440226</created>
@@ -299,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518711724327</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="coment add4">
+      <created>1518711949439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1518711949439</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14834000" />
+    <option name="totallyTimeSpent" value="14957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1272" height="712" extended-state="0" />
@@ -339,7 +346,8 @@
     <MESSAGE value="coment add" />
     <MESSAGE value="coment add2" />
     <MESSAGE value="coment add3" />
-    <option name="LAST_COMMIT_MESSAGE" value="coment add3" />
+    <MESSAGE value="coment add4" />
+    <option name="LAST_COMMIT_MESSAGE" value="coment add4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -483,7 +491,7 @@
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding />
         </state>
       </provider>
